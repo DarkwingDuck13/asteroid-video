@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Video
+Comment=Small-screen video player
+Exec=asteroid-video
+Icon=ios-videocam-outline
+X-Asteroid-Center-Color=#1f6f8b
+X-Asteroid-Outer-Color=#0b1d26
+Type=Application
+Categories=AudioVideo;Video;
